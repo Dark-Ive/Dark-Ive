@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on open source CLI tools for Linux.<br>🤝 I’m looking to collaborate on open-source cybersecurity and DevOps projects.<br>🫱 I’m looking for help with building CLI tools for windows and network security setups.<br>🌱 I’m currently learning advanced network security and secure software architecture.<br>💬 Ask me about computer science, Go, or building CLI tools — I love sharing what I’ve learned!<br>⚡ Fun fact: I do small CTF challenges and enjoy solving them for fun.
+🔭 I’m currently working on open source CLI tools for Linux.<br>🤝 I’m looking to collaborate on open-source cybersecurity and DevOps projects.<br>🫱 I’m looking for help with building CLI tools for windows and network security setups.<br>🌱 I’m currently learning advanced network security and secure software architecture.<br>💬 Ask me about Computer Science, CTF's, or building CLI tools — I love sharing what I’ve learned!<br>⚡ Fun fact: I do small CTF challenges and enjoy solving them for fun.
 
 
 ## 🌐 Socials:
