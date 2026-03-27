@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on open source CLI tools for Linux.<br>🤝 I’m looking to collaborate on open-source cybersecurity and networking projects.<br>🫱 I’m looking for help with building CLI tools for windows and network security setups.<br>🌱 I’m currently learning advanced network security and secure software architecture.<br>💬 Ask me about Computer Science, CTF's, or building CLI tools — I love sharing what I’ve learned!<br>⚡ Fun fact: I do small CTF challenges and enjoy solving them for fun.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharath-r-l) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/vander_13) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Vander_13) 
 
